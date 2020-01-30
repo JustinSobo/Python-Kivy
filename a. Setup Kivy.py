@@ -9,7 +9,7 @@ python -m pip install pygame
 python -m pip install cython
 python -m pip install docutils pygments pypiwin32 kivy_deps.sdl2 kivy_deps.glew
 python -m pip install kivy_deps.gstreamer
-python -m pip install kivy_deps.angle (Install if Python 3.5+)
+python -m pip install kivy_deps.angle #(Install if Python 3.5+)
 
 #Install Kivy.
 python -m pip install kivy
